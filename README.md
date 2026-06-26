@@ -1,9 +1,9 @@
 # Hi, I'm Hugo 👋
 
-**Full Stack Developer** — Web & Mobile  
+**Full Stack Developer** — Web, Mobile & Security  
 Currently finishing my studies and looking for a first opportunity as a developer.
 
-I build complete applications from database to UI, with a focus on clean architecture and real-world usability.
+I build complete applications from database to UI, with a strong interest in cybersecurity — encryption, intrusion detection and security tooling.
 
 ---
 
@@ -32,13 +32,20 @@ I build complete applications from database to UI, with a focus on clean archite
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Security**
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Cryptography](https://img.shields.io/badge/AES--256%20%2F%20Argon2-blueviolet?style=flat-square)
+![SSH](https://img.shields.io/badge/SSH%20%2F%20asyncssh-333?style=flat-square&logo=gnubash&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%20%2F%20TLS-009900?style=flat-square&logo=letsencrypt&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoDGS&theme=dark&hide_border=true&show_icons=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDGS&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
+![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoDGS&theme=dark&hide_border=true&show_icons=true&cache_seconds=1800&v=3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDGS&theme=dark&hide_border=true&layout=compact&cache_seconds=1800&v=3)
 
 ---
 

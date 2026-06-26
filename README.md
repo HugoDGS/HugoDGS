@@ -32,8 +32,8 @@ I build complete applications from database to UI, with a focus on clean archite
 
 ## GitHub Stats
 
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoDGS&theme=dark&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDGS&theme=dark&hide_border=true&layout=compact)
+![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoDGS&theme=dark&hide_border=true&show_icons=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDGS&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
 
 ---
 
